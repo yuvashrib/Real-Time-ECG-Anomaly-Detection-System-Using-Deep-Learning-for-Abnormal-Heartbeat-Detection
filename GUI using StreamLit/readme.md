@@ -20,3 +20,7 @@ We developed a real-time anomaly detection interface using **Streamlit**, which 
 ### 🧪 Test File
 
 We include a sample test `.arff` file specially prepared for testing the GUI behavior and model predictions. It ensures that both normal and anomalous outputs are displayed.
+
+
+## 🎥 GUI Demo Video
+👉 **Watch the demo:** [https://drive.google.com/file/d/1g-irkaOdu3m5LaBRxXfsaUOM16Ch-mEU/view?usp=sharing](#)  
