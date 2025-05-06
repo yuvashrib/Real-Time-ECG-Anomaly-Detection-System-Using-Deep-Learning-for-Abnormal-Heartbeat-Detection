@@ -16,7 +16,7 @@ A deep learning-based project for real-time anomaly detection and classification
 ## 📊 Dataset
 
 - **Name:** ECG5000  
-- **Source:** [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)  
+- **Source:** [UCR Time Series Classification Archive](https://www.timeseriesclassification.com/description.php?Dataset=ECG5000)  
 - **Description:** Contains 5,000 univariate ECG records, each 140 time steps long. Data is labeled into 5 distinct classes, representing both normal and abnormal heartbeats.
 
 ---
